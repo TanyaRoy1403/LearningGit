@@ -1,0 +1,19 @@
+steps
+1--> first create a repo in which you want to push file or folder
+2-->Copy created repo path
+3-->go on git bash
+4-->Open file or folder that you want to push into repo on git bash terminal
+5-->add command
+    (a) git init
+    (b) git add -A
+    (c) git status
+    (d) git commit -m "message"
+    (e) git remote add origin (paste the path you copied)
+    (f) git push origin master
+# steps to commit the change
+1-->open file or folder in which you made change on git bash
+2-->command
+   (a) git add .  //this is not full stop
+   (b) git status
+   (c) git commit -m "message"
+   (d) git push origin master
