@@ -17,3 +17,5 @@ steps
    (b) git status
    (c) git commit -m "message"
    (d) git push origin master
+#when we create README file default branch will be main , perform all git command to push the folder on master then 
+ make master branch as default ,go to setting and the delete the main branch.
